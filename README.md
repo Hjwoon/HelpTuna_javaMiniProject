@@ -12,4 +12,3 @@
 [게임 화면]
 
 <img width="324" alt="image" src="https://github.com/Hjwoon/HelpTuna_javaMiniProject/assets/100463930/cf069979-31fa-4f01-afcb-b4c6ebc7eb30">
-<img width="324" alt="image" src="https://github.com/Hjwoon/HelpTuna_javaMiniProject/assets/100463930/c6ecf954-8095-49e5-bb52-702cd605e380">
